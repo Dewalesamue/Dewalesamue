@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
+  <title id="title">Prime λ</title><desc id="desc">A dark orbital illustration for Adewale's software engineering profile.</desc>
+  <defs><radialGradient id="sky" cx="73%" cy="48%" r="57%"><stop stop-color="#222344"/><stop offset="1" stop-color="#0b0c14"/></radialGradient><radialGradient id="planet"><stop stop-color="#fef0bb"/><stop offset="1" stop-color="#f3b766"/></radialGradient></defs>
+  <rect width="800" height="300" rx="20" fill="url(#sky)"/>
+  <g fill="#b9b7e8"><circle cx="435" cy="48" r="2"/><circle cx="504" cy="238" r="1.5"/><circle cx="689" cy="44" r="1.5"/><circle cx="748" cy="191" r="2"/><circle cx="715" cy="257" r="1.5"/><circle cx="773" cy="86" r="1.5"/><circle cx="426" cy="218" r="1.5"/><circle cx="556" cy="54" r="1.5"/></g>
+  <g fill="none" stroke="#7776a8" transform="rotate(-22 594 150)"><ellipse cx="594" cy="150" rx="143" ry="72"/><ellipse cx="594" cy="150" rx="105" ry="50" stroke-dasharray="4 7"/></g>
+  <circle cx="594" cy="150" r="52" fill="#f3b766" opacity=".15"/><circle cx="594" cy="150" r="39" fill="url(#planet)"/>
+  <text x="594" y="167" text-anchor="middle" fill="#25172b" font-family="Georgia, serif" font-size="52">λ</text>
+  <g transform="rotate(-22 594 150)"><circle r="8" fill="#a99bff"><animateMotion dur="14s" repeatCount="indefinite" path="M 737 150 A 143 72 0 1 1 451 150 A 143 72 0 1 1 737 150"/></circle><circle cx="737" cy="150" r="4" fill="#a99bff"/><circle cx="489" cy="150" r="6" fill="#78ddcd"/></g>
+  <g font-family="system-ui, sans-serif"><text x="43" y="88" fill="#b8b1fa" font-size="15" letter-spacing="2">@DEWALESAMUE</text><text x="40" y="160" fill="#fff3da" font-size="68" font-weight="700">Prime λ</text><text x="43" y="204" fill="#deddf0" font-size="22">Software engineering</text><text x="43" y="234" fill="#deddf0" font-size="22">System design &amp; architecture</text></g>
+</svg>
