@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m Adewale · Prime λ</h1>
 
 <p align="center">
-  <img src="./assets/prime-workstation.svg" width="800" alt="Pixel-art workstation overlooking Akure at night, with a lambda glowing on a retro monitor">
+  <img src="./assets/prime-coder-break.svg" width="800" alt="A pixel-art coder rests in a chair beside a glowing retro monitor overlooking Akure at night">
 </p>
 
 ## About me
