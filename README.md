@@ -16,6 +16,15 @@
 
 I’m an Information Technology student at the Federal University of Technology, Akure (FUTA). I build web products and design the workflows, APIs, and data models behind them. I’m especially interested in systems that coordinate people in real time, from clinic queues to campus deliveries.
 
+<p align="center">
+  <img src="./assets/mission-control.svg" width="800" alt="Featured project cards for Waitless, Campus Express, FUTA Map and FUTA Exam Planner, followed by Adewale’s tech stack.">
+</p>
+
+<p align="center"><a href="https://futamap.netlify.app/">Open FUTA Map</a> · <a href="https://futaexamplanner.netlify.app/">Open FUTA Exam Planner</a></p>
+
+<details>
+<summary>Project details and tools</summary>
+
 ## Featured work
 
 | Project | What I built or designed | System design focus |
@@ -33,6 +42,12 @@ I’m an Information Technology student at the Federal University of Technology,
 | Mobile | React Native, Expo |
 | Backend and data | Node.js, Express, PostgreSQL, Supabase |
 | Deployment | Vercel, Railway, Netlify |
+
+</details>
+
+## Orbit log
+
+[View my GitHub contribution history](https://github.com/Dewalesamue#contribution-activity)
 
 ---
 
