@@ -1,20 +1,21 @@
-<p align="center">
-  <img src="./assets/prime-orbit.svg" width="800" alt="Prime λ — software engineering, system design and architecture">
-</p>
-
-<h1 align="center">Adeleke Samuel Adewale</h1>
-
-<p align="center"><strong>Software Engineering · System Design · Software Architecture</strong></p>
+<h1 align="center">Hey, I’m Adewale · Prime λ</h1>
 
 <p align="center">
-  <a href="https://dewalesamue.vercel.app/projects">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/dewale-samue-b8915b395/">LinkedIn</a> ·
-  <a href="https://x.com/dewalesamue">X</a>
+  <img src="./assets/prime-workstation.svg" width="800" alt="Pixel-art workstation overlooking Akure at night, with a lambda glowing on a retro monitor">
 </p>
 
 ## About me
 
-I’m an Information Technology student at the Federal University of Technology, Akure (FUTA). I build web products and design the workflows, APIs, and data models behind them. I’m especially interested in systems that coordinate people in real time, from clinic queues to campus deliveries.
+I’m an Information Technology student at FUTA building web products and designing the workflows, APIs, and data models behind them.
+
+[Portfolio](https://dewalesamue.vercel.app/projects) · [LinkedIn](https://www.linkedin.com/in/dewale-samue-b8915b395/) · [X](https://x.com/dewalesamue)
+
+## GitHub activity
+
+[![GitHub followers](https://img.shields.io/github/followers/Dewalesamue?style=for-the-badge&label=Followers&color=7559bf&labelColor=17243a)](https://github.com/Dewalesamue?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Dewalesamue?style=for-the-badge&label=Stars&color=368c80&labelColor=17243a)](https://github.com/Dewalesamue?tab=repositories)
+
+[View my contribution history](https://github.com/Dewalesamue#contribution-activity)
 
 <p align="center">
   <img src="./assets/mission-control.svg" width="800" alt="Featured project cards for Waitless, Campus Express, FUTA Map and FUTA Exam Planner, followed by Adewale’s tech stack.">
@@ -45,9 +46,6 @@ I’m an Information Technology student at the Federal University of Technology,
 
 </details>
 
-## Orbit log
-
-[View my GitHub contribution history](https://github.com/Dewalesamue#contribution-activity)
 
 ---
 
