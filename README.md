@@ -1,16 +1,19 @@
-## Hi there 👋
+![Prime λ — software engineering, system design and architecture](./assets/prime-orbit.svg)
 
-<!--
-**Dewalesamue/Dewalesamue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I’m Adewale
 
-Here are some ideas to get you started:
+I’m an Information Technology student at the Federal University of Technology, Akure. I build web products and focus on system design, from mapping user workflows to designing the APIs and data models that support them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | What I built or designed |
+| --- | --- |
+| [FUTA Map](https://futamap.netlify.app/) | A campus navigation app that helps students find lecture theatres, hostels, and other landmarks. |
+| [FUTA Exam Planner](https://futaexamplanner.netlify.app/) | An exam planning app with a focus timer for study sessions. |
+| Waitless | A digital queue system designed around QR check-in, virtual tickets, and a dashboard for service providers. |
+
+## Tools I work with
+
+TypeScript · React · Node.js · PostgreSQL · Supabase
+
+[Portfolio](https://dewalesamue.vercel.app/projects) · [LinkedIn](https://www.linkedin.com/in/dewale-samue-b8915b395/) · [X](https://x.com/dewalesamue)
