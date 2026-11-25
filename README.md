@@ -2,20 +2,39 @@
   <img src="./assets/prime-orbit.svg" width="800" alt="Prime λ — software engineering, system design and architecture">
 </p>
 
-## Hi, I’m Adewale
+<h1 align="center">Adeleke Samuel Adewale</h1>
 
-I’m an Information Technology student at the Federal University of Technology, Akure. I build web products and focus on system design, from mapping user workflows to designing the APIs and data models that support them.
+<p align="center"><strong>Software Engineering · System Design · Software Architecture</strong></p>
 
-## Selected projects
+<p align="center">
+  <a href="https://dewalesamue.vercel.app/projects">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/dewale-samue-b8915b395/">LinkedIn</a> ·
+  <a href="https://x.com/dewalesamue">X</a>
+</p>
 
-| Project | What I built or designed |
-| --- | --- |
-| [FUTA Map](https://futamap.netlify.app/) | A campus navigation app that helps students find lecture theatres, hostels, and other landmarks. |
-| [FUTA Exam Planner](https://futaexamplanner.netlify.app/) | An exam planning app with a focus timer for study sessions. |
-| Waitless | A digital queue system designed around QR check-in, virtual tickets, and a dashboard for service providers. |
+## About me
+
+I’m an Information Technology student at the Federal University of Technology, Akure (FUTA). I build web products and design the workflows, APIs, and data models behind them. I’m especially interested in systems that coordinate people in real time, from clinic queues to campus deliveries.
+
+## Featured work
+
+| Project | What I built or designed | System design focus |
+| :--- | :--- | :--- |
+| **Waitless** | A digital queue concept for clinics and service desks, with QR check-in, virtual tickets, and a provider dashboard. | Queue state and the flow from check-in to being served. |
+| **Campus Express** | A campus marketplace designed around buyers, vendors, and riders. | Role-based access, single-vendor instant checkout, and multi-vendor order fulfillment. |
+| **[FUTA Map](https://futamap.netlify.app/)** | A campus navigation app for finding lecture theatres, hostels, and other landmarks. | Organizing places by category so students can find them quickly. |
+| **[FUTA Exam Planner](https://futaexamplanner.netlify.app/)** | An exam planning app with a focus timer for study sessions. | Connecting exam schedules with day-to-day study planning. |
 
 ## Tools I work with
 
-TypeScript · React · Node.js · PostgreSQL · Supabase
+| Area | Stack |
+| :--- | :--- |
+| Frontend | TypeScript, React |
+| Mobile | React Native, Expo |
+| Backend and data | Node.js, Express, PostgreSQL, Supabase |
+| Deployment | Vercel, Railway, Netlify |
 
-[Portfolio](https://dewalesamue.vercel.app/projects) · [LinkedIn](https://www.linkedin.com/in/dewale-samue-b8915b395/) · [X](https://x.com/dewalesamue)
+---
+
+<p align="center"><strong>Prime λ</strong> · Akure, Nigeria<br>
+<a href="https://dewalesamue.vercel.app/projects">Explore my projects</a> · <a href="https://www.linkedin.com/in/dewale-samue-b8915b395/">Connect on LinkedIn</a></p>
