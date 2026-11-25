@@ -1,4 +1,6 @@
-![Prime λ — software engineering, system design and architecture](./assets/prime-orbit.svg)
+<p align="center">
+  <img src="./assets/prime-orbit.svg" width="800" alt="Prime λ — software engineering, system design and architecture">
+</p>
 
 ## Hi, I’m Adewale
 
